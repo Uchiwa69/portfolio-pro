@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-800">Email</h4>
-                  <p className="text-slate-600">mohanebbache69@gmail.com</p>
+                  <p className="text-slate-600">Sur demande</p>
                 </div>
               </div>
 
@@ -66,7 +66,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-800">Téléphone</h4>
-                  <p className="text-slate-600">06 15 23 28 90</p>
+                  <p className="text-slate-600">Sur demande</p>
                 </div>
               </div>
 
@@ -183,7 +183,7 @@ const Contact: React.FC = () => {
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-slate-200 text-center">
           <p className="text-slate-600">
-            © 2024 Mohamed Nebbache - Portfolio BTS SIO SISR. Tous droits réservés.
+            © 2024 Portfolio BTS SIO SISR. Tous droits réservés.
           </p>
           <p className="text-slate-500 text-sm mt-2">
             Site réalisé dans le cadre de l'épreuve E5 - BTS SIO Option SISR

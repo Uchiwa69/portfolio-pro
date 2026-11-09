@@ -18,7 +18,7 @@ const About: React.FC = () => {
                 <h3 className="text-xl font-semibold">Profil étudiant</h3>
               </div>
               <div className="space-y-3 text-blue-100">
-                <p><strong>Nom :</strong> Nebbache Mohamed</p>
+                <p><strong>Profil :</strong> Étudiant en BTS SIO</p>
                 <p><strong>Formation :</strong> BTS SIO – Option SISR</p>
                 <p><strong>Établissement :</strong> Nexa Digital School, Lyon</p>
                 <p><strong>Statut :</strong> Alternant chez Framatome</p>
